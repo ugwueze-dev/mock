@@ -1,5 +1,6 @@
 {
     "Building": {
-
+    	"building_id"  : 1,
+    	"building_name": "Mary Slessor Hall"
     }
 }
